@@ -27,7 +27,7 @@
 #define CLIENT_VERSION_STRING "Only Official Client allowed! Visit the website for more information."
 #elif defined(__PROTOCOL_76__)
 #define ITEMS_PATH std::string("76")
-#define OTB_VERSION 2
+#define OTB_VERSION 1
 #define CLIENT_VERSION_MIN 760
 #define CLIENT_VERSION_MAX 760
 #define CLIENT_VERSION_STRING "Only clients with protocol 7.60 allowed!"
